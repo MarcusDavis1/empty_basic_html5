@@ -3,7 +3,21 @@ body {
 }
 h1 {
   color:red;
+  font-family: "monosace";
+  font-size: 40 ;
 }
 h2{
   color:blue;
+  font-family: "serif";
+  font-size: 33;
+}
+h3{
+  color:green;
+  font-family: "Arial";
+  font-size: 25;
+}
+p{
+  color: blue;
+  font-family: sans-serif;
+  font-size: 23;
 }
