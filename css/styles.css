@@ -1,10 +1,15 @@
 body {
     color:black;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 h1 {
   color:red;
   font-family: "monosace";
   font-size: 40 ;
+
 }
 h2{
   color:blue;
