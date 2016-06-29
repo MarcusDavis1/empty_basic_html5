@@ -1,9 +1,9 @@
 body {
     color:black;
-    margin-left: 15px;
-    margin-right: 15px;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    padding-left:  15px;
+    padding-right: 15px;
+    padding-top:  30px;
+    padding-bottom: 30px;
 }
 h1 {
   color:red;
@@ -29,6 +29,9 @@ p{
 img{
   width:170px;
   hieght:170px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 
 }
 address{
