@@ -41,7 +41,9 @@ address{
 }
 dt{
   font-size: 20;
+  color: blue;
 }
 dd{
   font-size: 20;
+  color: red;
 }
