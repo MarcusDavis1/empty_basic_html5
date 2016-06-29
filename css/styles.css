@@ -29,4 +29,13 @@ p{
 img{
   width:170px;
   hieght:170px;
+
+}
+address{
+  display: block;
+  text-align: center;
+  clear: both;
+  font-family: fantasy;
+  font-size: 25;
+  color: orange;
 }
